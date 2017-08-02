@@ -1,3 +1,4 @@
-export function add(a: number, b: number): number {
-   return a + b;
-}
+import { add } from './adition/add'
+import { sub } from './subtraction/sub'
+
+export { add, sub };

@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git://wittydeveloper/typescript-npm-module-bootstrap.git"
   },
-  "main": "dist/index.js",
+  "main": "dist/lib/index.js",
   "typings": "definitions/lib/index",
   "typescript": {
     "definition": "definitions/lib/index"

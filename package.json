@@ -1,6 +1,6 @@
 {
   "name": "typescript-npm-module-bootstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://wittydeveloper/typescript-npm-module-bootstrap.git"
@@ -35,7 +35,5 @@
   },
   "author": "Charly POLY <hello@charlypoly.com>",
   "license": "MIT",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
